@@ -1,6 +1,7 @@
-//: Playground - noun: a place where people can play
 
 import UIKit
+
+//https://github.com/airbnb/lottie-ios/issues/419
 
 extension UIView {
 
